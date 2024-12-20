@@ -1,1 +1,3 @@
-# New_York_Restaurant_Analysis_Tableau
+Dashboard for restuarant analysis using tableau
+
+<img width="1129" alt="image" src="https://github.com/user-attachments/assets/46da13f0-85ab-4367-95c2-71340ad9ec41" />
